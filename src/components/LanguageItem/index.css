@@ -1,0 +1,7 @@
+.item-image{
+    height: 300px;
+    width: 300px;
+}
+.item-container {
+    list-style: none;
+}
